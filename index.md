@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Ark Bioinformatics
 
 You can use the [editor on GitHub](https://github.com/Arkadiy-Garber/ArkBioinformatics/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -9,7 +9,13 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Services offered
+
+# Consulting
+
+# Custom alogirthm/software development
+
+# Collaboration
 
 # Header 1
 ## Header 2
