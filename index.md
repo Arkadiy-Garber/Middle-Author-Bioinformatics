@@ -7,7 +7,6 @@ Middle Author Bioinformatics services include consultation, data analysis, custo
 If you are interested, please contact us for a complimentary consultation. We'd would be happy to discuss your data and research questions. This can be a discussion regarding broad questions like the range of analyses that can be done with the data. It can also be more specific.
 
 
-#```markdown
 
 ## Services offered
 
@@ -50,7 +49,7 @@ If you are interested, please contact us for a complimentary consultation. We'd 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-#```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
