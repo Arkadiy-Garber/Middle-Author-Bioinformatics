@@ -1,2 +1,2 @@
 # Middle Author Bioinformatics
- https://arkadiy-garber.github.io/MiddleAuthorBioinformatics/
+ https://arkadiy-garber.github.io/ArkBioinformatics.github.io/
