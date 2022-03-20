@@ -7,21 +7,22 @@ Middle Author Bioinformatics services include consultation, data analysis, custo
 If you are interested, please contact us for a complimentary consultation. We'd would be happy to discuss your data and research questions. This can be a discussion regarding broad questions like the range of analyses that can be done with the data. It can also be more specific.
 
 
-```markdown
-Services offered
+#```markdown
 
-# Consulting and collaboration
+## Services offered
 
-# Custom alogirthm/software development
+- Consulting and collaboration
 
-# Data processing and analysis
+- Custom alogirthm/software development
 
-# Data interpretation and ghost-writing
+- Data processing and analysis
 
-# Figure development
+- Data interpretation and ghost-writing
 
-**Software Packages**
-1. ParaHunter: Identification of gene paralogs within genomes, and calculation of dS and dN/dS values for paralogous gene pairs. [software](https://github.com/Arkadiy-Garber/ParaHunter) [article](https://academic.oup.com/gbe/article/13/11/evab245/6427628)
+- Figure development
+
+## Software Packages
+1. ParaHunter: Identification of gene paralogs within genomes, and calculation of dS and dN/dS values for paralogous gene pairs. [Software](https://github.com/Arkadiy-Garber/ParaHunter); [Article](https://academic.oup.com/gbe/article/13/11/evab245/6427628)
 
 2. Pseudofinder: Identification and analysis of pseudogenes in prokaryotic genomes (https://github.com/Filip-Husnik/Pseudofinder).
 
@@ -49,7 +50,7 @@ Services offered
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+#```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
