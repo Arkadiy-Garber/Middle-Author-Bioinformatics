@@ -23,9 +23,9 @@ If you are interested, please contact us for a complimentary consultation. We'd 
 ## Software Packages
 1. ParaHunter: Identification of gene paralogs within genomes, and calculation of dS and dN/dS values for paralogous gene pairs. [Software](https://github.com/Arkadiy-Garber/ParaHunter); [Article](https://academic.oup.com/gbe/article/13/11/evab245/6427628)
 
-2. Pseudofinder: Identification and analysis of pseudogenes in prokaryotic genomes (https://github.com/Filip-Husnik/Pseudofinder).
+2. Pseudofinder: Identification and analysis of pseudogenes in prokaryotic genomes. [Software](https://github.com/Filip-Husnik/Pseudofinder); [Article](https://www.biorxiv.org/content/10.1101/2021.10.07.463580v1.full)
 
-3. FeGenie: HMM-based identification and categorization of iron genes and iron gene operons in genomes and metagenomes (https://github.com/Arkadiy-Garber/FeGenie).
+3. FeGenie: HMM-based identification and categorization of iron genes and iron gene operons in genomes and metagenomes. [Software](https://github.com/Arkadiy-Garber/FeGenie); [Article](https://www.frontiersin.org/articles/10.3389/fmicb.2020.00037/full)
 
 4. SprayNPray: Rapid and simple taxonomic profiling of genome and metagenome contigs (https://github.com/Arkadiy-Garber/SprayNPray).
 
