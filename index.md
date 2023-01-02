@@ -27,6 +27,8 @@ If you are interested, please contact us for a complimentary consultation. We'd 
 
 3. FeGenie: HMM-based identification and categorization of iron genes and iron gene operons in genomes and metagenomes. [Software](https://github.com/Arkadiy-Garber/FeGenie); [Article](https://www.frontiersin.org/articles/10.3389/fmicb.2020.00037/full)
 
+<img src="[images/Emoticons/cool.png](https://github.com/Arkadiy-Garber/Middle-Author-Bioinformatics/blob/gh-pages/Images/fmicb-11-00037-g004.jpeg)" alt="hi" class="inline"/>
+
 4. SprayNPray: Rapid and simple taxonomic profiling of genome and metagenome contigs (https://github.com/Arkadiy-Garber/SprayNPray).
 
 5. MagicLamp: toolkit for annotation of 'omics datasets using curated HMM sets (https://github.com/Arkadiy-Garber/MagicLamp).
